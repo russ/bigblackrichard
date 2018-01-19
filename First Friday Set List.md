@@ -2,10 +2,10 @@
 
 | Song                       | Artist                  | Guitar Tuning | Tempo | On Drums      | Who Starts              |
 | -------------------------- | ----------------------- | ------------- | ----- | ------------- | ----------------------- |
-| New Moon Rising            | Wolfmother              | Drop D        | 136   | Russ          | All on and of 3         |
+| New Moon Rising            | Wolfmother              | Drop D        | 136   | Russ          | All on & of 3           |
 | Flagpole Sitta             | Harvey Danger           | Drop D        | 145   | Russ          | Drums on 1              |
 | Tighten Up                 | Black Keys              | Drop D        | 109   | Russ          | Bass and Tamborine on 1 |
-| Unsung                     | Helmet                  | Drop D        | 163   | Russ          | Drums on 4              |
+| Unsung                     | Helmet                  | Drop D        | 163   | Russ          | Drums on & of 3         |
 | Today                      | Smashing Pumpkins       | Drop D        | 83    | Russ          | Lead Guitar on 1        |
 | Two                        | Big Black Richard       | Drop D        | 109   | Russ          | All on 1                |
 | Take Me Out                | Franz Ferdinand         | Drop D        | 105   | Dante         | All on 1                |
