@@ -1,5 +1,8 @@
 ## First Friday Set List
 
+### Spotify Playlist (Minus the Originals)
+https://open.spotify.com/user/cloudsplitter/playlist/0cEOCI2s3zWkAlMLdpqlKh
+
 | Song                       | Artist                  | Guitar Tuning | Tempo | On Drums      | Who Starts              |
 | -------------------------- | ----------------------- | ------------- | ----- | ------------- | ----------------------- |
 | New Moon Rising            | Wolfmother              | Drop D        | 136   | Russ          | All on & of 3           |
