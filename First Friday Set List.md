@@ -2,7 +2,7 @@
 
 | Song                       | Artist                  | Guitar Tuning | Tempo | On Drums      | Who Starts              |
 | -------------------------- | ----------------------- | ------------- | ----- | ------------- | ----------------------- |
-| New Moon Rising            | Wolfmother              | Drop D        | 136   | Russ          | All on 1                |
+| New Moon Rising            | Wolfmother              | Drop D        | 136   | Russ          | All on and of 3         |
 | Flagpole Sitta             | Harvey Danger           | Drop D        | 145   | Russ          | Drums on 1              |
 | Tighten Up                 | Black Keys              | Drop D        | 109   | Russ          | Bass and Tamborine on 1 |
 | Unsung                     | Helmet                  | Drop D        | 163   | Russ          | Drums on 4              |
