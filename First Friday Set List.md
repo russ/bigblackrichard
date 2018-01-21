@@ -16,10 +16,10 @@ https://open.spotify.com/user/cloudsplitter/playlist/0cEOCI2s3zWkAlMLdpqlKh
 | Just Like Heaven           | The Cure                | Drop D        | 151   | Dante         | Drums on 2              |
 | Soul to Squeeze            | Red Hot Chili Peppers   | Drop D        | 88    | Dante         | Lead Guitar on 1        |
 | Hey Jealousy               | Gin Blossoms            | Drop D        | 153   | Russ          | Drums on 3              |
+| Song 2                     | Blur                    | Drop D        | 139   | Dante         | Drums on 1              |
 | Hardest Button to Button   | The White Stripes       | Drop D        | 128   | Russ          | Bass & Drums on 1       |
 | Everlong                   | Foo Fighters            | Drop D        | 158   | Russ          | Lead Guitar on 1        |
 | Eleven                     | Big Black Richard       | Drop D        | 77    | Russ          | Lead Guitar on 1        |
-| Song 2                     | Blur                    | Drop D        | 139   | Dante         | Drums on 1              |
 | Eye of the Tiger           | Survivor                | Drop D        | 109   | Dante         | Lead Guitar on 1        |
 | Two Princes                | Spin Doctors            | Standard      | 104   | Dante         | Drums on 1              |
 | Three                      | Big Black Richard       | Drop D        | 103   | Russ          | Lead Guitar on 1        |
