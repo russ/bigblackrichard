@@ -25,3 +25,17 @@ https://open.spotify.com/user/cloudsplitter/playlist/0cEOCI2s3zWkAlMLdpqlKh
 | Three                      | Big Black Richard       | Drop D        | 103   | Russ          | Lead Guitar on 1        |
 | Last Nite                  | The Strokes             | Standard      | 104   | Russ          | All on 1                |
 | Nine 3/4                   | Big Black Richard       | Drop D        | 153   | Russ          | Drums on 1              |
+
+
+| Song                       | Song Length | Dropping |
+| -------------------------- | ----------- | -------- |
+| Flagpole Sitta             | 3:37        | Yes      |
+| Tighten Up                 | 3:31        | Maybe    |
+| Somebody Told Me           | 3:17        | Maybe    |
+| Just Like Heaven           | 3:57        | Maybe    |
+| Soul to Squeeze            | 4:56        | Yes      |
+| Hey Jealousy               | 3:56        | Yes      |
+| Eleven                     | 5:00        | Yes      |
+| Two Princes                | 4:17        | Maybe    |
+| Nine 3/4                   | 3:20        | Maybe    |
+|                            | 36 minutes  |          |
