@@ -17,3 +17,21 @@ https://open.spotify.com/user/cloudsplitter/playlist/0cEOCI2s3zWkAlMLdpqlKh
 | Eye of the Tiger           | Survivor                | Drop D        | 109   | Dante         | Lead Guitar on 1        |
 | Last Nite                  | The Strokes             | Standard      | 104   | Russ          | All on 1                |
 | Three                      | Big Black Richard       | Drop D        | 103   | Russ          | Lead Guitar on 1        |
+
+
+## Amp Settings
+
+| Song                       | Settings |
+| -------------------------- | -------- |
+| New Moon Rising            | Clean    |
+| Unsung                     | Heavy    |
+| Today                      | Clean    |
+| Two                        | Heavy    |
+| Hardest Button to Button   | British  |
+| Everlong                   | Heavy    |
+| Take Me Out                | British  |
+| Somebody Told Me           | British  |
+| Song 2                     | Heavy    |
+| Eye of the Tiger           | Heavy    |
+| Last Nite                  | British  |
+| Three                      | Heavy    |
