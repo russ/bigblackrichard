@@ -11,6 +11,7 @@ https://open.spotify.com/user/cloudsplitter/playlist/0cEOCI2s3zWkAlMLdpqlKh
 | Two                        | Big Black Richard       | Drop D        | 109   | Russ          | All on 1                |
 | Hardest Button to Button   | The White Stripes       | Drop D        | 128   | Russ          | Bass & Drums on 1       |
 | Everlong                   | Foo Fighters            | Drop D        | 158   | Russ          | Lead Guitar on 1        |
+| Cries of Peace             | Steve Russell           | Standard      |       | Russ          | All on 1
 | Take Me Out                | Franz Ferdinand         | Drop D        | 105   | Dante         | All on 1                |
 | Somebody Told Me           | The Killers             | Drop D        | 138   | Dante         | All on 1                |
 | Song 2                     | Blur                    | Drop D        | 139   | Dante         | Drums on 1              |
